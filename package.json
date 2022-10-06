@@ -2,5 +2,10 @@
   "name": "devopsdemo1",
   "version": "0.1.0",
   "private": true,
+<<<<<<< HEAD
   "fullname": "devopsdemo1"
+=======
+  "react-bootstrap":"3.2",
+  "react-stip":"4.4"
+>>>>>>> origin/areej1
 }
